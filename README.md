@@ -1,5 +1,3 @@
-# design-patterns
-java-design-patterns
 # Design Patterns Implemented in Java
 
 ![Java CI](https://github.com/iluwatar/java-design-patterns/workflows/Java%20CI/badge.svg)
